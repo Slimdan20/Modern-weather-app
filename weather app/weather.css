@@ -215,6 +215,9 @@ body {
     justify-content: space-between;
     gap: 15px;
   }
+    .main::-webkit-scrollbar {
+    display: none;
+  }
 
   .main-1 {
     border: solid whitesmoke 1px;
